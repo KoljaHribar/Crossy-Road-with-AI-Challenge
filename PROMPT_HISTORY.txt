@@ -4,3 +4,37 @@ If I arrived to a point where I was satisfied with the functionality, I would mo
 I used Gemini 3 Pro mode for the coding and had a 1 hour timer on my phone.
 
 Here are the prompts:
+
+Create a simple 2D Crossy Roads game using Python
+
+good start. now add a score (10 points for every obsticle row passed)
+
+good. but make it so there is no "end goal" it just goes on until the player hits the obsticle
+
+make it scrollable. so that the player always goes up, until they hit the obsticle
+
+better. make the score go up by 10 instead of 5 for every row crossed. and keep the high score. start with high score=0 and after the first game have it be the highest score the player hit.
+
+now it first adds two points and then starts adding by 10. so the scores are always 12, 52, 92... change it so the scores can only be multiples of ten. you get 10 points for crossing the row.
+
+works. now make the character a chicken. and add multiple obstacle types: cars trucks and trains
+
+works. now make cars have random colours and trucks too. and make some trucks longer than other trucks. cars can be all the same size
+
+works. now make it have increasing difficulty. start with the obstacles moving slow and be infrequent and after every 100 points a player racks up increase the speed and frequency of the obstacles
+
+works. now make the cars look more like cars.
+
+better. make the colours of the obstacles mroe different. i saw 10 blue cars in a row. also, make the trains have the tires on the lower side instead of the upper side. also never allow a car to drive past a truck. i saw a couple of instances where a car drove directly through a truck. try making it the speed of all the vihacles on the row is the same, but the frequency isn't. different rows can have different speeds. what matters is it increases after a player passes a level
+
+better. now make the game chase a player. so the player cant just stand on the grass, they always have to move up.
+
+great. now make an animation when a player loses. make all the obstacles explode and turn into eggs. and animate the sign you lost to print a letter at a time at different places on the screen.
+
+great. now in the game make an animation when a player loses. make all the obstacles explode and turn into eggs. and animate the sign you lost to print a letter at a time at different places on the screen.
+
+amazing. only thing is it happens too quickly. first make the obstacles explode, not at once but obstacle by obstacle. this should take 2 to 3 seconds. after each explodes, turn them into and egg. and only when every one of them is an egg do you start with the sign. make the letters appear slower as well. one by one
+
+works perfectly. now give the user 2 seconds to start the game. dont just begin by chasing him. give him a 2 second breather. and make the roads, grass and rails look more like they should. more realistic look
+
+amazing work. now make the eggs look more realistic. and everytime a person looses after the game over is displayed have a chicken in the left corner of the screen tell a different chicken joke
