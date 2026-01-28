@@ -1,0 +1,6 @@
+My strategy was to start really simple and only add on stuff if the current version worked perfectly. 
+If I arrived to a point where I was satisfied with the functionality, I would move on to the aesthetics of the game.
+
+I used Gemini 3 Pro mode for the coding and had a 1 hour timer on my phone.
+
+Here are the prompts:
